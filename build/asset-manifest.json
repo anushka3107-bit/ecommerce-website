@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.390bebd6.css",
+    "main.js": "/static/js/main.b1938e12.js",
+    "static/media/Pink and Purple Birthday Donuts Fun & Shareable Zoom Background (2).png": "/static/media/Pink and Purple Birthday Donuts Fun & Shareable Zoom Background (2).5b7c5d31d2d9a50148ba.png",
+    "index.html": "/index.html",
+    "main.390bebd6.css.map": "/static/css/main.390bebd6.css.map",
+    "main.b1938e12.js.map": "/static/js/main.b1938e12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.390bebd6.css",
+    "static/js/main.b1938e12.js"
+  ]
+}

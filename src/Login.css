@@ -1,0 +1,91 @@
+.login{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login_logo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    object-fit: contain;
+    width: 120px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.login_container{
+    background: url('C:\Users\dell\Desktop\kuku\amazon-clone\public\Pink and Purple Birthday Donuts Fun & Shareable Zoom Background (2).png');
+    width: 400px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    margin-top: 0px;
+    padding: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+   
+}
+
+
+.login_container >h1{
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.login_container >form>h5{
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.login_container >form>input{
+    /* width: 100px; */
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    width: 100%;
+    border-radius: 20px;
+    border-top-color: #fff;
+    border-left-color: #fff;
+
+}
+
+.login_container > p{
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.login_signin_btn{
+    background: #FFB3B3;
+    border-radius: 20px;
+    height: 40px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 10px;
+    border: 3px solid #FF5D5D;
+    color: #fff;
+}
+
+.login_signin_btn:hover{
+    background-color: #FF5D5D;
+}
+
+.register_btn{
+    background: #FFB3B3;
+    border-radius: 20px;
+    height: 40px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 10px;
+    border: 3px solid #FF5D5D;
+    color: #fff;
+}
+
+.register_btn:hover{
+    background: #FF5D5D;
+    
+}
